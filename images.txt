@@ -1,1 +1,1 @@
-apache/kafka:2.8.1
+confluentinc/cp-kafka:6.1.3
