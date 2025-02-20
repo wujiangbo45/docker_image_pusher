@@ -1,1 +1,1 @@
-wurstmeister/kafka:2.8.1
+apache/kafka:2.8.1
